@@ -73,6 +73,12 @@
 	color: white;
 }
 
+.hs-form textarea {
+	padding:4px;
+	font-family: 'Lato',sans-serif;
+	font-size: 1.5em;
+}
+
 body .hs-button.primary,
 body input[type="submit"],
 body input[type="button"] {
@@ -81,17 +87,22 @@ body input[type="button"] {
 	margin-top: 30px;
 	padding: 10px 20px 10px 20px;
 	font-family: 'Lato',sans-serif;
-	border-radius: 20px;
+	border-radius: 7px;
+	font-size: 2em;
+	border-color: none;
 }
 
 body .hs-button.primary:hover,
 body input[type="submit"]:hover,
-body input[type="button"]:hover {}
+body input[type="button"]:hover {
+	color: white;
+	background-color: #42a3bf;
+}
 
 body .hs-button.primary:focus,
 body input[type="submit"]:focus,
 body input[type="button"]:focus {
-
+	color: black;
 }
 
 
