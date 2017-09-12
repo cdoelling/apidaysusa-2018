@@ -67,6 +67,37 @@
 }
 
 
+/*HUBSPOT STYLING*/
+/*_______________________________________________________________*/
+.hs-form label {
+	color: white;
+}
+
+body .hs-button.primary,
+body input[type="submit"],
+body input[type="button"] {
+	color: #42a3bf;
+}
+
+body .hs-button.primary:hover,
+body input[type="submit"]:hover,
+body input[type="button"]:hover {}
+
+body .hs-button.primary:focus,
+body input[type="submit"]:focus,
+body input[type="button"]:focus {
+	color: white;
+}
+
+
+
+
+
+
+
+
+/*_______________________________________________________________*/
+
 /* Footer
 -----------------------------------------------------------------*/
 
