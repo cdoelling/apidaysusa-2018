@@ -937,7 +937,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 	background-color: rgba(0,0,0,0.5);
 }
 
-.dark label { color: #BBB; }
+.dark label { color: #fff; }
 
 .dark label.label-muted { color: #777; }
 
@@ -1745,4 +1745,3 @@ body #side-panel.dark #side-panel-trigger-close a {
 	.dark .pricing-box.pricing-extended .pricing-action-area { border-top-color: rgba(255,255,255,0.15); }
 
 }
-
